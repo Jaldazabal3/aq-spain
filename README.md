@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Pages
+  * Main page with a table of all cities (pagination) and some information for each city
+  * A page for each city with a table of locations
+  * A page for each location with data of every current measurement
